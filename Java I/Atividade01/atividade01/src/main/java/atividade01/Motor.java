@@ -1,5 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package atividade01;
 
+/**
+ *
+ * @author freire
+ */
 public class Motor {
     private int qtdPist; 
     private int potencia; 
@@ -26,5 +34,4 @@ public class Motor {
 	public void setQtdPist(int qtdPist) {
 		this.qtdPist = qtdPist;
 	}
-
 }
